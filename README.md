@@ -13,17 +13,17 @@ This is a program in which you can create your own account and then log into it,
 4. Create a DataBase called "x"
 
 5. Create a table called "users" with the following parameters
-a) ID (INT, must be primary key and have auto-increment)
-b) name (VARCHAR, 100 characters)
-c) email (VARCHAR, 100 characters)
-d) password (VARCHAR, 50 characters) 
+  - ID (INT, must be primary key and have auto-increment)
+  - Name (VARCHAR, 100 characters)
+  - Email (VARCHAR, 100 characters)
+  - Password (VARCHAR, 50 characters) 
 
 6. Open localhost/X/ in a browser 
 
 7. Sign up 
-> for Name only letters, whitespaces, and single quotes are allowed
-> E-mail must contain "@" and "."
-> Password must contain at least one uppercase, one lowercase, and a number
+  - for Name only letters, whitespaces, and single quotes are allowed
+  - E-mail must contain "@" and "."
+  - Password must contain at least one uppercase, one lowercase, and a number
 
 8. Log in
 

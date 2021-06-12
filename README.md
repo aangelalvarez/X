@@ -13,10 +13,10 @@ This is a program in which you can create your own account and then log into it,
 4. Create a DataBase called "x"
 
 5. Create a table called "users" with the following parameters
-ID (INT, must be primary key and have auto-increment)
-name (VARCHAR, 100 characters)
-email (VARCHAR, 100 characters)
-password (VARCHAR, 50 characters) 
+a) ID (INT, must be primary key and have auto-increment)
+b) name (VARCHAR, 100 characters)
+c) email (VARCHAR, 100 characters)
+d) password (VARCHAR, 50 characters) 
 
 6. Open localhost/X/ in a browser 
 

@@ -1,4 +1,4 @@
-# 'X' Log in/ Sign up system
+# 'X' Log in / Sign up system
 
 This is a program in which you can create your own account and then log into it, just like you would do it for your favorite websites
 

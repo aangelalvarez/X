@@ -14,9 +14,9 @@ This is a program in which you can create your own account and then log into it,
 
 5. Create a table called "users" with the following parameters
   - ID (INT, must be primary key and have auto-increment)
-  - Name (VARCHAR, 100 characters)
-  - Email (VARCHAR, 100 characters)
-  - Password (VARCHAR, 50 characters) 
+  - name (VARCHAR, 100 characters)
+  - email (VARCHAR, 100 characters)
+  - password (VARCHAR, 50 characters) 
 
 6. Open localhost/X/ in a browser 
 

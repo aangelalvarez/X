@@ -29,5 +29,5 @@ This is a program in which you can create your own account and then log into it,
 
 9. Log out if you wish
 
-The program executes an input-validation algorithm, that in order
-to prevent code injections, it also executes password encryption 
+The program has an input-validation algorithm
+Passwords are encrypted

@@ -1,6 +1,6 @@
 # 'X' Log in / Sign up system
 
-This is a program in which you can create your own account and then log into it, just like you would do it for your favorite websites
+This is a program in which you can create your own account and then log into it, just like you would do on your favorite websites
 
 ## Instructions on how to run this project on your computer
 
@@ -8,7 +8,7 @@ This is a program in which you can create your own account and then log into it,
 
 2. Open XAAMP and start both Apache and MySQL
 
-3. Open localhost/phpmyadmin/ in a browser
+3. Open localhost/phpmyadmin/ on a browser tab
 
 4. Create a DataBase called "x"
 
